@@ -3,6 +3,14 @@
 An automated, data-driven Health & Fitness web application built using **Python** and **Streamlit**. The system serves as a personalized AI coach that calculates daily caloric and macronutrient targets using scientific metabolic equations, dynamically filters nutritional food sources, and structures customizable workout routines tailored to individual user profiles.
 
 ---
+---
+
+## 🚀 Production Deployment
+🌍 **Live Application:** [Live](https://ai-powered-diet-and-workout-planner-1.onrender.com/)
+
+---
+
+
 
 ## 🚀 Features
 
